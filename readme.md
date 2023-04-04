@@ -30,6 +30,11 @@ Clock can configure for any time zone, and also can control brightnes of him.
 Time can set manualy or synchronize with pick NTP server.
 Clock have a WebREPL interface for upload Python scripts.
 
+3D Models are in [3D MODELS](./3d_models/)
+Dimmensioins of my clock: about 800x300 mm
+
+![MY CLOCK PHOTO](./my_clock.jpg)
+
 ### TECHNOLOGIES
  
 - PYTHON: micropython, webrepl
@@ -66,3 +71,6 @@ Zegar można skonfigurować dla dowolnej strefy czasowej, a także kontrolować 
 
 Czas można ustawić ręcznie lub zsynchronizować z wybranym serwerem NTP.
 Zegar posiada interfejs WebREPL do przesyłania skryptów Pythona.
+
+Modele 3d dostępne w katalogu [3D MODELS](./3d_models/)
+Wymiary mojego zegara: ok. 800x300 mm
