@@ -35,6 +35,9 @@ Dimmensioins of my clock: about 800x300 mm
 
 ![MY CLOCK PHOTO](./my_clock.jpg)
 
+
+![MY CLOCK ELEMENTS MODELS](./model.png)
+
 ### TECHNOLOGIES
  
 - PYTHON: micropython, webrepl
