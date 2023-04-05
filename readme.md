@@ -41,6 +41,7 @@ Dimmensioins of my clock: about 800x300 mm
 ### TECHNOLOGIES
  
 - PYTHON: micropython, webrepl
+- 3D Print
 
 ### HOW START
 
